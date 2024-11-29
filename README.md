@@ -1,11 +1,11 @@
-# Todo List App V4
+# Todo List App
 
 [English](#english) | [Español](#español)
 
 ---
 
 <a name="english"></a>
-# Todo List App V4 [English]
+# Todo List App [English]
 
 A cross-platform todo list application developed with React Native (Expo) and Node.js.
 
