@@ -166,7 +166,7 @@ This project is under the MIT License. See the `LICENSE` file for more details.
 ---
 
 <a name="español"></a>
-# Todo List App V4 [Español]
+# Todo List App [Español]
 
 Una aplicación de lista de tareas multiplataforma desarrollada con React Native (Expo) y Node.js.
 
